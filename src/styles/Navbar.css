@@ -1,0 +1,14 @@
+.Navbar{
+    background-color: #000000;
+    color: #ffffff;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
